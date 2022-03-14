@@ -1,3 +1,5 @@
+package ie.gmit.twodshapes;
+
 public class TwoDShape {
     
     // Instance Variables
