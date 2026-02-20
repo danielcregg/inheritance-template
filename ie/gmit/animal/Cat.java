@@ -1,5 +1,5 @@
 package ie.gmit.animal;
 
-public class Cat {
+public class Cat extends Animal {
     // Your code here
 }

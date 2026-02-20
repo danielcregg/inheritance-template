@@ -1,7 +1,7 @@
 package ie.gmit.twodshapes;
-public class Triangel {
+public class Triangel extends TwoDShape {
     
-    // Instance Varibales
+    // Instance Variables
     private String sideType;
 
 }

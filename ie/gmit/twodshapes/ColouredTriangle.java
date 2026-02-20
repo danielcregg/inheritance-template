@@ -1,4 +1,4 @@
 package ie.gmit.twodshapes;
-public class ColouredTriangle {
+public class ColouredTriangle extends Triangel {
     
 }
